@@ -1,5 +1,9 @@
 h1{
-    color:blue;
+    color:rgb(22, 39, 39);
+    background-color: rgb(149, 97, 233);
+    margin-left: 800px;
+    margin-right: 800px;
+
 }
 ul{
     font-size: larger;
